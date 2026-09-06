@@ -1,0 +1,8 @@
+[package]
+name = "namechanger"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+text_io = "0.1.13"
+walkdir = "2.5.0"
